@@ -3,23 +3,93 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sidmahurkar.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2021-01-14T01:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://sidmahurkar.github.io/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://sidmahurkar.github.io/publication-type/3/</loc>
+    <lastmod>2021-01-14T01:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://sidmahurkar.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://sidmahurkar.github.io/tag/indic_nlp/</loc>
+    <lastmod>2021-01-14T01:00:25+05:30</lastmod>
   </url>
   
   <url>
     <loc></loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-14T01:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-14T01:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sidmahurkar.github.io/publication_types/</loc>
+    <lastmod>2021-01-14T01:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sidmahurkar.github.io/publication/</loc>
+    <lastmod>2021-01-14T01:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-14T01:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-14T01:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-14T01:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sidmahurkar.github.io/</loc>
+    <lastmod>2021-01-14T01:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sidmahurkar.github.io/tag/syntax/</loc>
+    <lastmod>2021-01-14T01:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sidmahurkar.github.io/tags/</loc>
+    <lastmod>2021-01-14T01:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-01-14T01:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sidmahurkar.github.io/publication/vyakarana/</loc>
+    <lastmod>2021-01-14T01:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sidmahurkar.github.io/publication-type/1/</loc>
+    <lastmod>2020-12-13T17:10:23+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sidmahurkar.github.io/publication/lrg-at-semeval-2020-task-7/</loc>
+    <lastmod>2020-12-13T17:10:23+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sidmahurkar.github.io/tag/nlp/</loc>
+    <lastmod>2020-12-13T17:10:23+05:30</lastmod>
   </url>
   
   <url>
@@ -38,17 +108,12 @@
   </url>
   
   <url>
-    <loc></loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sidmahurkar.github.io/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sidmahurkar.github.io/tags/</loc>
+    <loc></loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -70,6 +135,51 @@
   <url>
     <loc>https://sidmahurkar.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sidmahurkar.github.io/publication/fake-news-detection-ieee-bigmm/</loc>
+    <lastmod>2020-09-24T00:46:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sidmahurkar.github.io/tag/fake-news-detection/</loc>
+    <lastmod>2020-09-24T00:46:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sidmahurkar.github.io/tag/multi-modal-models/</loc>
+    <lastmod>2020-09-24T00:46:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-09-24T00:46:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-09-24T00:46:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sidmahurkar.github.io/publication/citta/</loc>
+    <lastmod>2019-12-14T01:02:40+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sidmahurkar.github.io/tag/recommendation-system/</loc>
+    <lastmod>2019-12-14T01:02:40+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sidmahurkar.github.io/event/</loc>
+    <lastmod>2019-12-09T17:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sidmahurkar.github.io/talk/talk-on-ai-in-digital-libraries/</loc>
+    <lastmod>2019-12-09T17:00:00+05:30</lastmod>
   </url>
   
   <url>
@@ -95,31 +205,6 @@
   <url>
     <loc>https://sidmahurkar.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidmahurkar.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidmahurkar.github.io/publication/example/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidmahurkar.github.io/publication_types/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sidmahurkar.github.io/publication/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
